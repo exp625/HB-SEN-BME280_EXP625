@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "HB-SEN-BME280_EXP625")(type "KiCad")(uri "${KIPRJMOD}/HB-SEN-BME280_EXP625.kicad_sym")(options "")(descr ""))
+)
