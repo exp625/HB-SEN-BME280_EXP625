@@ -5,7 +5,7 @@
 ![pic](Pictures/HB-SEN-BME280_EXP625_PCB.png)
 ![pic](Pictures/HB-SEN-BME280_EXP625_FRONT.png)
 ![pic](Pictures/HB-SEN-BME280_EXP625_BACK.png)
-![pic](Pictures/HB-SEN-BME280_EXP625_ASSEMBELD.png)
+![pic](Pictures/HB-SEN-BME280_EXP625_ASSEMBLED.png)
 
 ## Credits
 
@@ -24,8 +24,8 @@ The provided gerber files were used to order the pcb from JLCPCB and assemble 4 
 
 ![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_FRONT.jpg)
 ![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_BACK.jpg)
-![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_ASSEMBELD_FRONT.jpg)
-![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_ASSEMBELD_BACK.jpg)
+![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_ASSEMBLED_FRONT.jpg)
+![pic](Pictures/HB-SEN-BME280_EXP625_JLCPCB_ASSEMBLED_BACK.jpg)
 
 
 ## Part List
