@@ -1,6 +1,6 @@
 # HB-SEN-BME280_EXP625
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)]
-**PCB for DIY AsksinPP++ Temperature/Humidity/Pressure sensor based on a BOSCH BME280 sensor and an Arduino Pro Mini
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+**PCB for DIY AsksinPP++ Temperature/Humidity/Pressure sensor based on a BOSCH BME280 sensor and an Arduino Pro Mini**
 
 ![pic](Pictures/HB-SEN-BME280_EXP625_PCB.png)
 ![pic](Pictures/HB-SEN-BME280_EXP625_FRONT.png)
